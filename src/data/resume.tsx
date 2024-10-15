@@ -119,7 +119,7 @@ export const DATA = {
 					icon: <Icons.github className="size-3" />,
 				},
 			],
-			image: "https://cdn.discordapp.com/attachments/999377240724873298/1295712549735632896/image.png?ex=670fa5d9&is=670e5459&hm=e9d39000ce620d459e35359ab2d5b8a05a22117bb82669c2bc7eb6b90eb5773d&",
+			image: "",
 			video: "pote_manager.mp4",
 		},
 	],
