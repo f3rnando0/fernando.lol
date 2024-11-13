@@ -122,5 +122,30 @@ export const DATA = {
 			image: "",
 			video: "pote_manager.mp4",
 		},
+		{
+			title: "Revio",
+			href: "https://revio.cc",
+			dates: "Nov 2024 - Nov 2024",
+			active: true,
+			description:
+				"Landing page de um serviço de desbanimento de contas do Instagram feito para um cliente.",
+			technologies: [
+				"Next.js",
+				"Typescript",
+				"TailwindCSS",
+				"Shadcn UI",
+				"Magic UI",
+				"Aceternity UI"
+			],
+			links: [
+				{
+					type: "Website",
+					href: "https://revio.cc",
+					icon: <Icons.globe className="size-3" />,
+				},
+			],
+			image: "/revio.cc",
+			video: "",
+		},
 	],
 } as const;
