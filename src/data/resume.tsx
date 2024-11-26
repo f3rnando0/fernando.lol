@@ -24,6 +24,10 @@ export const DATA = {
 		"Prisma",
 		"MongoDB",
 		"Postgres",
+		"Sqlite",
+		"Framer",
+		"MaterialUI",
+		"ShadcnUI",
 	],
 	navbar: [
 		{ href: "/", icon: HomeIcon, label: "Home" },
